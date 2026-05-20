@@ -35,4 +35,4 @@ This project analyzes financial transaction data to identify fraud patterns usin
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot 2026-05-20 170015.png)
+![Dashboard](screenshots/Screenshot 2026-05-20 170015.png)
