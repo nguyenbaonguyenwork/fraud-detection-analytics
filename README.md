@@ -30,3 +30,9 @@ This project analyzes financial transaction data to identify fraud patterns usin
 - TRANSFER transactions had the highest fraud rate
 - Fraud activity appeared more frequently in high-value transactions
 - Fraud transactions represented a small percentage of total activity
+
+---
+
+## Dashboard Preview
+
+![Dashboard](Screenshot 2026-05-20 170015.png)
